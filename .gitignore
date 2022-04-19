@@ -1,0 +1,5 @@
+__pycache__
+main.cpython-39.pyc
+schema.cpython-39.pyc
+serve_model.cpython-39.pyc
+symptom_check.cpython-39.pyc

@@ -1,0 +1,1 @@
+from serve_model import predict, read_imagefile
